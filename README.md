@@ -1,7 +1,7 @@
 
 # vim-sourcetrail
 
-Vim plugin for communication with [Sourcetrail](https://www.sourcetrail.com/)
+Vim plugin to synchronize the cursor position with [Sourcetrail](https://www.sourcetrail.com/).
 
 ## Installation
 
